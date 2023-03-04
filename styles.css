@@ -1,0 +1,37 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    height: 200px;
+    background-color: aqua;
+
+}
+.main .text{
+    background-color: bisque;
+}
+.main .image{
+    background-color: yellow;
+    height: 100px;
+}
+.experience{
+    background-color: aquamarine;
+    height: 200px;
+}
+.services{
+    background-color: blue;
+    height: 200px;
+}
+.working-experience{
+    background-color: bisque;
+    height: 200px;
+}
+.contact-me{
+    background-color: blueviolet;
+    height: 200px;
+}
+.footer{
+    background-color: yellow;
+    height: 200px;
+}
